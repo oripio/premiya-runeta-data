@@ -7,8 +7,8 @@
 		"name": "ЯПлакалъ",
 		"nomin": 1,
 		"url": "http://www.yaplakal.com",
-		"prev_votes": 19468,
-		"current_votes": 19472,
+		"prev_votes": 19472,
+		"current_votes": 19476,
 		"votes_per_minute": 4,
 		"vote_history": [
 			{
@@ -2175,6 +2175,11 @@
 				"timespamp": 1542636460804601433,
 				"timestamp_str": "2018-11-19 17:07:40",
 				"votes": 19472
+			},
+			{
+				"timespamp": 1542636520855268448,
+				"timestamp_str": "2018-11-19 17:08:40",
+				"votes": 19476
 			}
 		]
 	},
@@ -2186,9 +2191,9 @@
 		"name": "PRonline – первое в России онлайн PR-агентство",
 		"nomin": 1,
 		"url": "https://www.pronline.ru/",
-		"prev_votes": 16768,
+		"prev_votes": 16769,
 		"current_votes": 16769,
-		"votes_per_minute": 1,
+		"votes_per_minute": 0,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586714974,
@@ -2701,8 +2706,8 @@
 		"nomin": 2,
 		"url": "https://vk.com/bananafoxpub",
 		"prev_votes": 9409,
-		"current_votes": 9409,
-		"votes_per_minute": 0,
+		"current_votes": 9411,
+		"votes_per_minute": 2,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586609928,
@@ -3568,6 +3573,11 @@
 				"timespamp": 1542636400741259352,
 				"timestamp_str": "2018-11-19 17:06:40",
 				"votes": 9409
+			},
+			{
+				"timespamp": 1542636520855020751,
+				"timestamp_str": "2018-11-19 17:08:40",
+				"votes": 9411
 			}
 		]
 	},
@@ -3579,9 +3589,9 @@
 		"name": "Эшер II - мониторинг блокировок интернета",
 		"nomin": 1,
 		"url": "https://usher2.club",
-		"prev_votes": 9342,
+		"prev_votes": 9344,
 		"current_votes": 9344,
-		"votes_per_minute": 2,
+		"votes_per_minute": 0,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586692657,
@@ -5952,8 +5962,8 @@
 		"nomin": 1,
 		"url": "http://4teller.com",
 		"prev_votes": 4782,
-		"current_votes": 4782,
-		"votes_per_minute": 0,
+		"current_votes": 4785,
+		"votes_per_minute": 3,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586619023,
@@ -6949,6 +6959,11 @@
 				"timespamp": 1542636280628097692,
 				"timestamp_str": "2018-11-19 17:04:40",
 				"votes": 4782
+			},
+			{
+				"timespamp": 1542636520855003311,
+				"timestamp_str": "2018-11-19 17:08:40",
+				"votes": 4785
 			}
 		]
 	},
@@ -10518,8 +10533,8 @@
 		"nomin": 1,
 		"url": "https://go.backupland.com",
 		"prev_votes": 2181,
-		"current_votes": 2181,
-		"votes_per_minute": 0,
+		"current_votes": 2182,
+		"votes_per_minute": 1,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586607668,
@@ -12070,6 +12085,11 @@
 				"timespamp": 1542636400741043035,
 				"timestamp_str": "2018-11-19 17:06:40",
 				"votes": 2181
+			},
+			{
+				"timespamp": 1542636520855289563,
+				"timestamp_str": "2018-11-19 17:08:40",
+				"votes": 2182
 			}
 		]
 	},
@@ -12081,9 +12101,9 @@
 		"name": "Империя Спасибо",
 		"nomin": 3,
 		"url": "https://empire.spasibosb.ru",
-		"prev_votes": 1590,
-		"current_votes": 1597,
-		"votes_per_minute": 7,
+		"prev_votes": 1597,
+		"current_votes": 1601,
+		"votes_per_minute": 4,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586755950,
@@ -12854,6 +12874,11 @@
 				"timespamp": 1542636460804596944,
 				"timestamp_str": "2018-11-19 17:07:40",
 				"votes": 1597
+			},
+			{
+				"timespamp": 1542636520854950246,
+				"timestamp_str": "2018-11-19 17:08:40",
+				"votes": 1601
 			}
 		]
 	},
@@ -14346,9 +14371,9 @@
 		"name": "Хорошая кухня",
 		"nomin": 1,
 		"url": "http://good-cook.ru",
-		"prev_votes": 882,
+		"prev_votes": 883,
 		"current_votes": 883,
-		"votes_per_minute": 1,
+		"votes_per_minute": 0,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586824405,
@@ -14881,8 +14906,8 @@
 		"nomin": 2,
 		"url": "https://www.facebook.com/groups/vdhl.ru/",
 		"prev_votes": 804,
-		"current_votes": 804,
-		"votes_per_minute": 0,
+		"current_votes": 805,
+		"votes_per_minute": 1,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586861140,
@@ -15483,6 +15508,11 @@
 				"timespamp": 1542635499854493650,
 				"timestamp_str": "2018-11-19 16:51:39",
 				"votes": 804
+			},
+			{
+				"timespamp": 1542636520854764865,
+				"timestamp_str": "2018-11-19 17:08:40",
+				"votes": 805
 			}
 		]
 	},
@@ -16821,8 +16851,8 @@
 		"nomin": 1,
 		"url": "http://www.osokainfo.ru",
 		"prev_votes": 595,
-		"current_votes": 595,
-		"votes_per_minute": 0,
+		"current_votes": 596,
+		"votes_per_minute": 1,
 		"vote_history": [
 			{
 				"timespamp": 1542608867586749731,
@@ -18443,6 +18473,11 @@
 				"timespamp": 1542636400741020150,
 				"timestamp_str": "2018-11-19 17:06:40",
 				"votes": 595
+			},
+			{
+				"timespamp": 1542636520855284958,
+				"timestamp_str": "2018-11-19 17:08:40",
+				"votes": 596
 			}
 		]
 	},
@@ -26244,6 +26279,220 @@
 		]
 	},
 	{
+		"id": 124,
+		"description": "DonorSearch.org — крупнейшее сообщество доноров крови в рунете. Мотивируем людей становиться донорами и сопровождаем на этом благородном пути - от первой сдачи крови к регулярным донациям и званию Почетного донора.",
+		"host": "vk.com",
+		"img": "",
+		"name": "Сообщество доноров крови - DonorSearch",
+		"nomin": 2,
+		"url": "https://vk.com/donorsearch",
+		"prev_votes": 34,
+		"current_votes": 34,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586596387,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542608927607974916,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542608987627659329,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609236619587475,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609296640121446,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609356662383341,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609416688560298,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609476712139022,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609536734317723,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609596757220688,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609656780068759,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609716807213898,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609776838134925,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609836864247963,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609896888848491,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542609956915327424,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610016952972811,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610076979909798,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610137006310047,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610197037675722,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610257064455431,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610317097160823,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610377125024763,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610437157578354,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610497193119434,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610557238640243,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610617271490039,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610677306072355,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610737342455389,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610797375425292,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610857415545896,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610917451019866,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542610977485207698,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542611037533841524,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542611097572631425,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542611157606135049,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542611217648861197,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 31
+			},
+			{
+				"timespamp": 1542630154688565205,
+				"timestamp_str": "2018-11-19 15:22:34",
+				"votes": 32
+			},
+			{
+				"timespamp": 1542633758093590997,
+				"timestamp_str": "2018-11-19 16:22:38",
+				"votes": 33
+			},
+			{
+				"timespamp": 1542635920306864607,
+				"timestamp_str": "2018-11-19 16:58:40",
+				"votes": 34
+			}
+		]
+	},
+	{
 		"id": 44,
 		"description": "Самое большое сообщество, посвященное электронной танцевальной музыке.",
 		"host": "vk.com",
@@ -26493,220 +26742,6 @@
 			{
 				"timespamp": 1542634899224074837,
 				"timestamp_str": "2018-11-19 16:41:39",
-				"votes": 34
-			}
-		]
-	},
-	{
-		"id": 124,
-		"description": "DonorSearch.org — крупнейшее сообщество доноров крови в рунете. Мотивируем людей становиться донорами и сопровождаем на этом благородном пути - от первой сдачи крови к регулярным донациям и званию Почетного донора.",
-		"host": "vk.com",
-		"img": "",
-		"name": "Сообщество доноров крови - DonorSearch",
-		"nomin": 2,
-		"url": "https://vk.com/donorsearch",
-		"prev_votes": 34,
-		"current_votes": 34,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586596387,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542608927607974916,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542608987627659329,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609236619587475,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609296640121446,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609356662383341,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609416688560298,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609476712139022,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609536734317723,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609596757220688,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609656780068759,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609716807213898,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609776838134925,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609836864247963,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609896888848491,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542609956915327424,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610016952972811,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610076979909798,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610137006310047,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610197037675722,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610257064455431,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610317097160823,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610377125024763,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610437157578354,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610497193119434,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610557238640243,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610617271490039,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610677306072355,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610737342455389,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610797375425292,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610857415545896,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610917451019866,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542610977485207698,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542611037533841524,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542611097572631425,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542611157606135049,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542611217648861197,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 31
-			},
-			{
-				"timespamp": 1542630154688565205,
-				"timestamp_str": "2018-11-19 15:22:34",
-				"votes": 32
-			},
-			{
-				"timespamp": 1542633758093590997,
-				"timestamp_str": "2018-11-19 16:22:38",
-				"votes": 33
-			},
-			{
-				"timespamp": 1542635920306864607,
-				"timestamp_str": "2018-11-19 16:58:40",
 				"votes": 34
 			}
 		]
@@ -28220,215 +28255,6 @@
 		]
 	},
 	{
-		"id": 305,
-		"description": "Way2day.com – все развлечения Москвы, классные подборки фильмов, сериалов и мультфильмов, интересные места для путешественников, только полезные книги и проверенные рецепты.",
-		"host": "way2day.com",
-		"img": "",
-		"name": "Way2day.com",
-		"nomin": 1,
-		"url": "https://way2day.com",
-		"prev_votes": 30,
-		"current_votes": 30,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586771109,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542608927607888586,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542608987627666852,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609236619677919,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609296639946023,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609356662013872,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609416688239316,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609476712118329,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609536734363453,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609596757245747,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609656780035885,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609716807313042,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609776838208767,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609836864361557,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609896888682461,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542609956915146963,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610016953193520,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610076979958600,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610137006150917,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610197038375230,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610257064336871,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610317098052495,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610377125088627,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610437157386067,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610497193227668,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610557237454188,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610617271778177,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610677305967753,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610737342610408,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610797375605581,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610857415832191,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610917451101342,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542610977485014315,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542611037534870799,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542611097572389228,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542611157606226186,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542611217648381162,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 28
-			},
-			{
-				"timespamp": 1542630875307623236,
-				"timestamp_str": "2018-11-19 15:34:35",
-				"votes": 29
-			},
-			{
-				"timespamp": 1542632196601797439,
-				"timestamp_str": "2018-11-19 15:56:36",
-				"votes": 30
-			}
-		]
-	},
-	{
 		"id": 41,
 		"description": "Сервис ТоргиНаКарте - это геоинформационная система, которая используя открытые данные о проведении торгов в отношении имущества, в том числе государственного и муниципального, предоставляет возможность искать и отображать на карте извещения/лоты о проведении торгов. Неоспоримые преимущества сервиса ТоргиНаКарте, такие как:- отображение лотов с учетом их географического положения,- фильтрация лотов и извещений по любой комбинации всех атрибутов, относящихся к извещениям, лотам, документам, протоколам,- скорость поиска, практически не зависящая от количества фильтров и объема результатов поиска,выгодно отличают его от других поисковых систем, существующих в интернете",
 		"host": "kartissimo.ru",
@@ -28633,6 +28459,215 @@
 			{
 				"timespamp": 1542633517887181401,
 				"timestamp_str": "2018-11-19 16:18:37",
+				"votes": 30
+			}
+		]
+	},
+	{
+		"id": 305,
+		"description": "Way2day.com – все развлечения Москвы, классные подборки фильмов, сериалов и мультфильмов, интересные места для путешественников, только полезные книги и проверенные рецепты.",
+		"host": "way2day.com",
+		"img": "",
+		"name": "Way2day.com",
+		"nomin": 1,
+		"url": "https://way2day.com",
+		"prev_votes": 30,
+		"current_votes": 30,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586771109,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542608927607888586,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542608987627666852,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609236619677919,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609296639946023,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609356662013872,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609416688239316,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609476712118329,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609536734363453,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609596757245747,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609656780035885,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609716807313042,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609776838208767,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609836864361557,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609896888682461,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542609956915146963,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610016953193520,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610076979958600,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610137006150917,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610197038375230,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610257064336871,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610317098052495,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610377125088627,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610437157386067,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610497193227668,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610557237454188,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610617271778177,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610677305967753,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610737342610408,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610797375605581,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610857415832191,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610917451101342,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542610977485014315,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542611037534870799,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542611097572389228,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542611157606226186,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542611217648381162,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 28
+			},
+			{
+				"timespamp": 1542630875307623236,
+				"timestamp_str": "2018-11-19 15:34:35",
+				"votes": 29
+			},
+			{
+				"timespamp": 1542632196601797439,
+				"timestamp_str": "2018-11-19 15:56:36",
 				"votes": 30
 			}
 		]
@@ -29758,240 +29793,6 @@
 		]
 	},
 	{
-		"id": 546,
-		"description": "Проект по переизданию старых добрых советских учебников 1940-1950-х, арифметика, буквари, родная речь и многие другие.Многим родителям не нравятся современные учебники, в них отсутствует системный подход, как правило, некрасивые картинки, много просто явных ошибок.",
-		"host": "stalins-bukvar.ru",
-		"img": "",
-		"name": "Сталинский букварь",
-		"nomin": 1,
-		"url": "http://stalins-bukvar.ru",
-		"prev_votes": 23,
-		"current_votes": 23,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586730300,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542608927608136625,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542608987627554304,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609236619786331,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609296640113245,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609356661844052,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609416688254847,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609476712120709,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609536734424765,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609596756993889,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609656780273286,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609716807363595,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609776838003476,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609836864146874,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609896888765745,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542609956915421890,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610016953016354,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610076980125106,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610137006425841,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610197038239450,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610257064436581,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610317098155332,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610377124958628,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610437157913322,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610497193160752,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610557238217166,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610617271698784,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610677305739702,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610737342554162,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610797375684952,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610857415704354,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610917450973647,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542610977484879532,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542611037534728549,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542611097572473312,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542611157606361090,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542611217648857626,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 16
-			},
-			{
-				"timespamp": 1542618685303316431,
-				"timestamp_str": "2018-11-19 12:11:25",
-				"votes": 17
-			},
-			{
-				"timespamp": 1542629434058994107,
-				"timestamp_str": "2018-11-19 15:10:34",
-				"votes": 18
-			},
-			{
-				"timespamp": 1542629674268654028,
-				"timestamp_str": "2018-11-19 15:14:34",
-				"votes": 19
-			},
-			{
-				"timespamp": 1542629974551623182,
-				"timestamp_str": "2018-11-19 15:19:34",
-				"votes": 20
-			},
-			{
-				"timespamp": 1542630815247094281,
-				"timestamp_str": "2018-11-19 15:33:35",
-				"votes": 21
-			},
-			{
-				"timespamp": 1542633337724701604,
-				"timestamp_str": "2018-11-19 16:15:37",
-				"votes": 22
-			},
-			{
-				"timespamp": 1542635559937584576,
-				"timestamp_str": "2018-11-19 16:52:39",
-				"votes": 23
-			}
-		]
-	},
-	{
 		"id": 276,
 		"description": "Сервис VideoSeed — качественное и эффективное продвижение видео. Система нативной видеорекламы и продвижения видео в сообществах ВКонтакте,Одноклассники, Facebook, Instagram, тематических сайтах. Работаем с видео, размещенными на YouTube и других популярных видеохостингах.Платформа, позволяющая владельцам видеоконтента управлять коммерческим распространением своего видео (длиннее 30 секунд) в соц.сетях и на веб-площадках.",
 		"host": "videoseed.ru",
@@ -30306,6 +30107,240 @@
 			{
 				"timespamp": 1542634959321984851,
 				"timestamp_str": "2018-11-19 16:42:39",
+				"votes": 23
+			}
+		]
+	},
+	{
+		"id": 546,
+		"description": "Проект по переизданию старых добрых советских учебников 1940-1950-х, арифметика, буквари, родная речь и многие другие.Многим родителям не нравятся современные учебники, в них отсутствует системный подход, как правило, некрасивые картинки, много просто явных ошибок.",
+		"host": "stalins-bukvar.ru",
+		"img": "",
+		"name": "Сталинский букварь",
+		"nomin": 1,
+		"url": "http://stalins-bukvar.ru",
+		"prev_votes": 23,
+		"current_votes": 23,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586730300,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542608927608136625,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542608987627554304,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609236619786331,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609296640113245,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609356661844052,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609416688254847,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609476712120709,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609536734424765,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609596756993889,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609656780273286,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609716807363595,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609776838003476,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609836864146874,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609896888765745,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542609956915421890,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610016953016354,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610076980125106,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610137006425841,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610197038239450,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610257064436581,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610317098155332,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610377124958628,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610437157913322,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610497193160752,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610557238217166,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610617271698784,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610677305739702,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610737342554162,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610797375684952,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610857415704354,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610917450973647,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542610977484879532,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542611037534728549,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542611097572473312,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542611157606361090,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542611217648857626,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 16
+			},
+			{
+				"timespamp": 1542618685303316431,
+				"timestamp_str": "2018-11-19 12:11:25",
+				"votes": 17
+			},
+			{
+				"timespamp": 1542629434058994107,
+				"timestamp_str": "2018-11-19 15:10:34",
+				"votes": 18
+			},
+			{
+				"timespamp": 1542629674268654028,
+				"timestamp_str": "2018-11-19 15:14:34",
+				"votes": 19
+			},
+			{
+				"timespamp": 1542629974551623182,
+				"timestamp_str": "2018-11-19 15:19:34",
+				"votes": 20
+			},
+			{
+				"timespamp": 1542630815247094281,
+				"timestamp_str": "2018-11-19 15:33:35",
+				"votes": 21
+			},
+			{
+				"timespamp": 1542633337724701604,
+				"timestamp_str": "2018-11-19 16:15:37",
+				"votes": 22
+			},
+			{
+				"timespamp": 1542635559937584576,
+				"timestamp_str": "2018-11-19 16:52:39",
 				"votes": 23
 			}
 		]
@@ -31610,210 +31645,6 @@
 		]
 	},
 	{
-		"id": 470,
-		"description": "Проект призван помогать посетителям выбирать самое лучшее из всего многообразия товаров для дома, семьи, здоровья, жизни. Рейтинги лучших товаров, обзоры.",
-		"host": "zen-top.ru",
-		"img": "",
-		"name": "Zen-Top.ru - Все лучшее на свете!",
-		"nomin": 1,
-		"url": "https://zen-top.ru/",
-		"prev_votes": 15,
-		"current_votes": 15,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586805378,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542608927607963056,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542608987627776961,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609236619745984,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609296640207235,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609356662265383,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609416688542518,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609476712079698,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609536734576998,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609596757195005,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609656780231741,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609716807430434,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609776838013982,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609836864195981,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609896888723967,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542609956915245258,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542610016952885887,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542610076979834451,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542610137005948185,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542610197038433720,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 10
-			},
-			{
-				"timespamp": 1542610257064593738,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 12
-			},
-			{
-				"timespamp": 1542610317097695130,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 12
-			},
-			{
-				"timespamp": 1542610377125057755,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 13
-			},
-			{
-				"timespamp": 1542610437157883547,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610497193116425,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610557237556250,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610617271687988,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610677306019096,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610737342662567,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610797375562156,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610857415871858,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610917450943145,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542610977484971844,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542611037534430993,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542611097572645472,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542611157606275762,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542611217648661533,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 14
-			},
-			{
-				"timespamp": 1542630094639370696,
-				"timestamp_str": "2018-11-19 15:21:34",
-				"votes": 15
-			}
-		]
-	},
-	{
 		"id": 341,
 		"description": "CODDY - одна из первых школ программирования для детей в России, имеющая более 65 уникальных программ для детей от 3 до 16лет, рассчитанные как для новичков, так и для более продвинутых. Мы стремимся к тому, чтобы хобби ребёнка превратилось в профессиональное русло в его будущем.",
 		"host": "coddyschool.com",
@@ -32018,6 +31849,210 @@
 			{
 				"timespamp": 1542631776140705893,
 				"timestamp_str": "2018-11-19 15:49:36",
+				"votes": 15
+			}
+		]
+	},
+	{
+		"id": 470,
+		"description": "Проект призван помогать посетителям выбирать самое лучшее из всего многообразия товаров для дома, семьи, здоровья, жизни. Рейтинги лучших товаров, обзоры.",
+		"host": "zen-top.ru",
+		"img": "",
+		"name": "Zen-Top.ru - Все лучшее на свете!",
+		"nomin": 1,
+		"url": "https://zen-top.ru/",
+		"prev_votes": 15,
+		"current_votes": 15,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586805378,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542608927607963056,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542608987627776961,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609236619745984,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609296640207235,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609356662265383,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609416688542518,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609476712079698,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609536734576998,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609596757195005,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609656780231741,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609716807430434,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609776838013982,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609836864195981,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609896888723967,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609956915245258,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610016952885887,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610076979834451,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610137005948185,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610197038433720,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610257064593738,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 12
+			},
+			{
+				"timespamp": 1542610317097695130,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 12
+			},
+			{
+				"timespamp": 1542610377125057755,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 13
+			},
+			{
+				"timespamp": 1542610437157883547,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610497193116425,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610557237556250,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610617271687988,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610677306019096,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610737342662567,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610797375562156,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610857415871858,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610917450943145,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542610977484971844,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542611037534430993,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542611097572645472,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542611157606275762,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542611217648661533,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 14
+			},
+			{
+				"timespamp": 1542630094639370696,
+				"timestamp_str": "2018-11-19 15:21:34",
 				"votes": 15
 			}
 		]
@@ -33501,6 +33536,205 @@
 		]
 	},
 	{
+		"id": 5,
+		"description": "Создание ИТ-платформы управленческой и технологической компетенции в рамках реализации приоритетной федеральной программы \"Повышение производительности труда и поддержка занятости\". Обеспечение возможности взаимодействия территориально распределенных участников в части доступа к единой, регулярно обновляемой базе знаний, ознакомления с информационными материалами, коммуникации, использования различных сервисных услуг и обучающих мероприятий по тематике повышения производительности труда.",
+		"host": "pfcc.ru",
+		"img": "",
+		"name": "ИТ-платформа управленческой и технологической компетенции",
+		"nomin": 1,
+		"url": "https://pfcc.ru",
+		"prev_votes": 10,
+		"current_votes": 10,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586751752,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542608927608053622,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542608987627564989,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609236619663151,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609296640080832,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609356661964979,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609416688358467,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609476712346561,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609536734579236,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609596757058944,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609656780118932,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609716807296046,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609776838147686,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609836863952478,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609896888939168,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542609956915235922,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610016953224961,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610076980029065,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610137005884111,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610197038077753,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610257064439588,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610317097316657,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610377125263119,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610437157645575,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610497193203383,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610557238308469,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610617271530079,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610677305869381,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610737342401247,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610797375544883,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610857415756316,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610917451017794,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542610977485199145,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542611037534838606,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542611097572367822,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542611157606306042,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 10
+			},
+			{
+				"timespamp": 1542611217648368737,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 10
+			}
+		]
+	},
+	{
 		"id": 466,
 		"description": "Сайт, посвященный культуре русской деревни (народное творчество, обряды, обычаи),  в частности, творчеству скульпторов - анималистов Уральского региона  (в духе традиций народов Урала, отраженных в сказаниях П. Бажова).",
 		"host": "redfolk.ru",
@@ -33720,201 +33954,206 @@
 		]
 	},
 	{
-		"id": 5,
-		"description": "Создание ИТ-платформы управленческой и технологической компетенции в рамках реализации приоритетной федеральной программы \"Повышение производительности труда и поддержка занятости\". Обеспечение возможности взаимодействия территориально распределенных участников в части доступа к единой, регулярно обновляемой базе знаний, ознакомления с информационными материалами, коммуникации, использования различных сервисных услуг и обучающих мероприятий по тематике повышения производительности труда.",
-		"host": "pfcc.ru",
+		"id": 33,
+		"description": "Интерактивный информационный портал",
+		"host": "trinixy.ru",
 		"img": "",
-		"name": "ИТ-платформа управленческой и технологической компетенции",
+		"name": "Триникси - время знать больше",
 		"nomin": 1,
-		"url": "https://pfcc.ru",
-		"prev_votes": 10,
-		"current_votes": 10,
+		"url": "http://trinixy.ru",
+		"prev_votes": 9,
+		"current_votes": 9,
 		"votes_per_minute": 0,
 		"vote_history": [
 			{
-				"timespamp": 1542608867586751752,
+				"timespamp": 1542608867586688328,
 				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542608927608053622,
+				"timespamp": 1542608927607873666,
 				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542608987627564989,
+				"timespamp": 1542608987627568243,
 				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609236619663151,
+				"timespamp": 1542609236619620450,
 				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609296640080832,
+				"timespamp": 1542609296640249654,
 				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609356661964979,
+				"timespamp": 1542609356661693683,
 				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609416688358467,
+				"timespamp": 1542609416688529351,
 				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609476712346561,
+				"timespamp": 1542609476712040837,
 				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609536734579236,
+				"timespamp": 1542609536734664699,
 				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609596757058944,
+				"timespamp": 1542609596756931803,
 				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609656780118932,
+				"timespamp": 1542609656780079308,
 				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609716807296046,
+				"timespamp": 1542609716807248308,
 				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609776838147686,
+				"timespamp": 1542609776837989238,
 				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609836863952478,
+				"timespamp": 1542609836864380335,
 				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609896888939168,
+				"timespamp": 1542609896888691517,
 				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542609956915235922,
+				"timespamp": 1542609956915153933,
 				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610016953224961,
+				"timespamp": 1542610016953120309,
 				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610076980029065,
+				"timespamp": 1542610076979851480,
 				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610137005884111,
+				"timespamp": 1542610137006048411,
 				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610197038077753,
+				"timespamp": 1542610197037647462,
 				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610257064439588,
+				"timespamp": 1542610257064574361,
 				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610317097316657,
+				"timespamp": 1542610317097320138,
 				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610377125263119,
+				"timespamp": 1542610377125071164,
 				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610437157645575,
+				"timespamp": 1542610437157976103,
 				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610497193203383,
+				"timespamp": 1542610497192915081,
 				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610557238308469,
+				"timespamp": 1542610557238501108,
 				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610617271530079,
+				"timespamp": 1542610617271648389,
 				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610677305869381,
+				"timespamp": 1542610677306054089,
 				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610737342401247,
+				"timespamp": 1542610737342424485,
 				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610797375544883,
+				"timespamp": 1542610797375503590,
 				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610857415756316,
+				"timespamp": 1542610857415808969,
 				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610917451017794,
+				"timespamp": 1542610917451127788,
 				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542610977485199145,
+				"timespamp": 1542610977485249601,
 				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542611037534838606,
+				"timespamp": 1542611037534044957,
 				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542611097572367822,
+				"timespamp": 1542611097572496379,
 				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542611157606306042,
+				"timespamp": 1542611157606406035,
 				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 10
+				"votes": 8
 			},
 			{
-				"timespamp": 1542611217648368737,
+				"timespamp": 1542611217648621008,
 				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 10
+				"votes": 8
+			},
+			{
+				"timespamp": 1542630334832535651,
+				"timestamp_str": "2018-11-19 15:25:34",
+				"votes": 9
 			}
 		]
 	},
@@ -34546,210 +34785,6 @@
 		]
 	},
 	{
-		"id": 33,
-		"description": "Интерактивный информационный портал",
-		"host": "trinixy.ru",
-		"img": "",
-		"name": "Триникси - время знать больше",
-		"nomin": 1,
-		"url": "http://trinixy.ru",
-		"prev_votes": 9,
-		"current_votes": 9,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586688328,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542608927607873666,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542608987627568243,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609236619620450,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609296640249654,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609356661693683,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609416688529351,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609476712040837,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609536734664699,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609596756931803,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609656780079308,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609716807248308,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609776837989238,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609836864380335,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609896888691517,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542609956915153933,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610016953120309,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610076979851480,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610137006048411,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610197037647462,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610257064574361,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610317097320138,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610377125071164,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610437157976103,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610497192915081,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610557238501108,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610617271648389,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610677306054089,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610737342424485,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610797375503590,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610857415808969,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610917451127788,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542610977485249601,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542611037534044957,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542611097572496379,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542611157606406035,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542611217648621008,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 8
-			},
-			{
-				"timespamp": 1542630334832535651,
-				"timestamp_str": "2018-11-19 15:25:34",
-				"votes": 9
-			}
-		]
-	},
-	{
 		"id": 583,
 		"description": "Инстаграм сообщество об Урале. Мы помогаем увидеть Урал, рассказываем о его достопримечательностях, истории, фактах. Ведь это наш Урал!",
 		"host": "instagram.com",
@@ -34949,429 +34984,6 @@
 			{
 				"timespamp": 1542631295678685428,
 				"timestamp_str": "2018-11-19 15:41:35",
-				"votes": 8
-			}
-		]
-	},
-	{
-		"id": 379,
-		"description": "Газета о молодежи и реализации молодежной политики в России.",
-		"host": "gazetazm.ru",
-		"img": "",
-		"name": "Заря молодежи",
-		"nomin": 1,
-		"url": "http://www.gazetazm.ru",
-		"prev_votes": 7,
-		"current_votes": 8,
-		"votes_per_minute": 1,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586679898,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542608927607977247,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542608987627772953,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609236619600506,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609296639968168,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609356661902586,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609416688309656,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609476712344559,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609536734536100,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609596756969639,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609656779939678,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609716807235573,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609776838033224,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609836864365278,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609896888820807,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609956915372312,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610016953265110,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610076979887439,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610137005903529,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610197037645375,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610257064524780,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610317097671588,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610377125196970,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610437158001831,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610497192967590,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610557237536160,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610617271550149,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610677305760654,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610737342616660,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610797375483071,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610857415827990,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610917451052427,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610977485046692,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611037534596844,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611097572446600,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611157606356677,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611217648687526,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542630454926735852,
-				"timestamp_str": "2018-11-19 15:27:34",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542632737180410316,
-				"timestamp_str": "2018-11-19 16:05:37",
-				"votes": 7
-			},
-			{
-				"timespamp": 1542636460804466398,
-				"timestamp_str": "2018-11-19 17:07:40",
-				"votes": 8
-			}
-		]
-	},
-	{
-		"id": 432,
-		"description": "Всё когда-то бывает в первый раз. Мы задаем себе вопрос – Как? Как сделать, Как выбрать, Как научиться, Как правильно, Как можно, Как избавиться. Кто подскажет? Кто посоветует? Ищите свой ответ на страницах сообщества ЗнайКак.ру.",
-		"host": "znaikak.ru",
-		"img": "",
-		"name": "ЗнайКак.ру",
-		"nomin": 1,
-		"url": "https://www.znaikak.ru",
-		"prev_votes": 8,
-		"current_votes": 8,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586784438,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542608927607960637,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542608987627417577,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609236619521149,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609296639970635,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609356662073160,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609416688327752,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609476712150302,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609536734510532,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609596757174031,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609656780011630,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609716807369959,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609776838143395,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609836864142950,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609896888979891,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542609956915311850,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610016953039322,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610076979869608,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610137005872617,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610197038373074,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610257064465287,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610317097192119,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610377125077594,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610437157947222,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610497193002496,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610557237463543,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610617271608079,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610677305852678,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610737342490833,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610797375639117,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610857415852321,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610917450949576,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542610977485124320,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542611037534891235,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542611097572518305,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542611157606410241,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542611217648871645,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542631475845097359,
-				"timestamp_str": "2018-11-19 15:44:35",
-				"votes": 7
-			},
-			{
-				"timespamp": 1542636040425005534,
-				"timestamp_str": "2018-11-19 17:00:40",
 				"votes": 8
 			}
 		]
@@ -35805,6 +35417,215 @@
 		]
 	},
 	{
+		"id": 432,
+		"description": "Всё когда-то бывает в первый раз. Мы задаем себе вопрос – Как? Как сделать, Как выбрать, Как научиться, Как правильно, Как можно, Как избавиться. Кто подскажет? Кто посоветует? Ищите свой ответ на страницах сообщества ЗнайКак.ру.",
+		"host": "znaikak.ru",
+		"img": "",
+		"name": "ЗнайКак.ру",
+		"nomin": 1,
+		"url": "https://www.znaikak.ru",
+		"prev_votes": 8,
+		"current_votes": 8,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586784438,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542608927607960637,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542608987627417577,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609236619521149,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609296639970635,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609356662073160,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609416688327752,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609476712150302,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609536734510532,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609596757174031,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609656780011630,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609716807369959,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609776838143395,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609836864142950,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609896888979891,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542609956915311850,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610016953039322,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610076979869608,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610137005872617,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610197038373074,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610257064465287,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610317097192119,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610377125077594,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610437157947222,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610497193002496,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610557237463543,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610617271608079,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610677305852678,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610737342490833,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610797375639117,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610857415852321,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610917450949576,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542610977485124320,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542611037534891235,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542611097572518305,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542611157606410241,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542611217648871645,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542631475845097359,
+				"timestamp_str": "2018-11-19 15:44:35",
+				"votes": 7
+			},
+			{
+				"timespamp": 1542636040425005534,
+				"timestamp_str": "2018-11-19 17:00:40",
+				"votes": 8
+			}
+		]
+	},
+	{
 		"id": 293,
 		"description": "\"Ассистент\" - это сервис предназначенный для организации безопасного удаленного доступа к рабочему столу компьютера ваших друзей, родственников или коллег для оперативной помощи в вопросах работы с компьютерной техникой. \"Ассистент\" работает на большинстве распространенных платформ для персональных компьютеров и поддерживает операционные системы российских разработчиков. Сервис \"Ассистент\" бесплатен для пользователей, не использующих его в коммерческих целях.",
 		"host": "мойассистент.рф",
@@ -35999,6 +35820,220 @@
 			{
 				"timespamp": 1542611217648799669,
 				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 8
+			}
+		]
+	},
+	{
+		"id": 379,
+		"description": "Газета о молодежи и реализации молодежной политики в России.",
+		"host": "gazetazm.ru",
+		"img": "",
+		"name": "Заря молодежи",
+		"nomin": 1,
+		"url": "http://www.gazetazm.ru",
+		"prev_votes": 8,
+		"current_votes": 8,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586679898,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542608927607977247,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542608987627772953,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609236619600506,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609296639968168,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609356661902586,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609416688309656,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609476712344559,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609536734536100,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609596756969639,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609656779939678,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609716807235573,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609776838033224,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609836864365278,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609896888820807,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609956915372312,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610016953265110,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610076979887439,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610137005903529,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610197037645375,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610257064524780,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610317097671588,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610377125196970,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610437158001831,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610497192967590,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610557237536160,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610617271550149,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610677305760654,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610737342616660,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610797375483071,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610857415827990,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610917451052427,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610977485046692,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611037534596844,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611097572446600,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611157606356677,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611217648687526,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542630454926735852,
+				"timestamp_str": "2018-11-19 15:27:34",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542632737180410316,
+				"timestamp_str": "2018-11-19 16:05:37",
+				"votes": 7
+			},
+			{
+				"timespamp": 1542636460804466398,
+				"timestamp_str": "2018-11-19 17:07:40",
 				"votes": 8
 			}
 		]
@@ -36213,215 +36248,6 @@
 		]
 	},
 	{
-		"id": 221,
-		"description": "WordStater - ассистент для подбора ключевых слов из Яндекс.Wordstat-- Удобная работа с Яндекс.Wordstat-- Ручной и полуавтоматический сбор ключевых запросов для запуска контекстной рекламы и SEO-оптимизации сайта-- Уникальная система поиска минус-слов и удобный инструмент анализа конкурентов-- Анализ спроса, прогноз бюджета и расчёт рентабельности рекламных кампаний-- Несколько инструментов для оптимизации кампаний Яндекс.Директ",
-		"host": "inclusif.ru",
-		"img": "",
-		"name": "Плагин WordStater",
-		"nomin": 1,
-		"url": "https://inclusif.ru/blog/reklama/prilozhenie-wordstater-assistent-dlya-sbora-klyuchevyh-slov",
-		"prev_votes": 7,
-		"current_votes": 7,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586871678,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542608927607862770,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542608987627609345,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609236619645704,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609296639977685,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609356661576316,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609416688354187,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609476712270193,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609536734447280,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609596757184104,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609656780467650,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609716807367805,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609776838160001,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609836864266473,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609896888697723,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609956915497129,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610016952906514,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610076980020693,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610137006432171,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610197038348138,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610257064212445,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610317097356546,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610377125190788,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610437157543073,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610497193276329,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610557238598537,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610617271745037,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610677306008570,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610737342415890,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610797375459615,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610857415880222,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610917451077074,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610977484955970,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611037535102999,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611097572578216,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611157606282459,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611217648868141,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542625891030531323,
-				"timestamp_str": "2018-11-19 14:11:31",
-				"votes": 6
-			},
-			{
-				"timespamp": 1542634538910259194,
-				"timestamp_str": "2018-11-19 16:35:38",
-				"votes": 7
-			}
-		]
-	},
-	{
 		"id": 434,
 		"description": "Научно-популярный сайт о науке и космосе! Технологии будущего уже рядом.",
 		"host": "infuture.ru",
@@ -36626,6 +36452,215 @@
 			{
 				"timespamp": 1542632376822208560,
 				"timestamp_str": "2018-11-19 15:59:36",
+				"votes": 7
+			}
+		]
+	},
+	{
+		"id": 221,
+		"description": "WordStater - ассистент для подбора ключевых слов из Яндекс.Wordstat-- Удобная работа с Яндекс.Wordstat-- Ручной и полуавтоматический сбор ключевых запросов для запуска контекстной рекламы и SEO-оптимизации сайта-- Уникальная система поиска минус-слов и удобный инструмент анализа конкурентов-- Анализ спроса, прогноз бюджета и расчёт рентабельности рекламных кампаний-- Несколько инструментов для оптимизации кампаний Яндекс.Директ",
+		"host": "inclusif.ru",
+		"img": "",
+		"name": "Плагин WordStater",
+		"nomin": 1,
+		"url": "https://inclusif.ru/blog/reklama/prilozhenie-wordstater-assistent-dlya-sbora-klyuchevyh-slov",
+		"prev_votes": 7,
+		"current_votes": 7,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586871678,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542608927607862770,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542608987627609345,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609236619645704,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609296639977685,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609356661576316,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609416688354187,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609476712270193,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609536734447280,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609596757184104,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609656780467650,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609716807367805,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609776838160001,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609836864266473,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609896888697723,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609956915497129,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610016952906514,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610076980020693,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610137006432171,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610197038348138,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610257064212445,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610317097356546,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610377125190788,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610437157543073,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610497193276329,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610557238598537,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610617271745037,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610677306008570,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610737342415890,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610797375459615,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610857415880222,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610917451077074,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610977484955970,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611037535102999,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611097572578216,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611157606282459,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611217648868141,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542625891030531323,
+				"timestamp_str": "2018-11-19 14:11:31",
+				"votes": 6
+			},
+			{
+				"timespamp": 1542634538910259194,
+				"timestamp_str": "2018-11-19 16:35:38",
 				"votes": 7
 			}
 		]
@@ -37243,205 +37278,6 @@
 		]
 	},
 	{
-		"id": 587,
-		"description": "Новый сайт зонтичного бренда клубных домов «Счастье» объединяет 25 жилых проектов девелоперской компании «Лидер Инвест» на разной стации реализации. Современный дизайн разработан в стилистике обновленного брендбука. Новый сайт стал ярким и понятным, с «дружелюбным» интерфейсом. Продумана и расширена логика разделов. Отдельного внимания заслуживают разделы «Эмоции рядом с домом» и «Преимущества» внутри карточек проектов. Благодаря этим разделам клиент может ознакомиться не только с функциональными и качественными характеристиками проекта, но и понять и эмоционально почувствовать плюсы локации проекта. В разделе «Инфраструктура» размещены интерактивные карты с различными объектами: от детских садов и школ, до магазинов и парков. При создании сайта разработчики и команда заказчика тщательно подбирали каждую иллюстрацию, чтобы весь визуальный контент был выдержан в единой гармоничной стилистике. На сайте много визуального контента: в карточках проектов помимо фотоотчетов и онлайн-трансляций хода строительства размещены также галереи с изображениями фасадов и дизайном мест общего пользования. Чтобы сделать выбор квартиры удобным для большинства покупателей в новом сайте реализованы два варианта выбора: и визуальный, и параметрический. Удобные фильтры позволяют пользователю подобрать себе подходящий проект или квартиру, воспользовавшись фильтрами по району, стоимости, площади квартиры, сроку сдачи и другим параметрам. Автоматическая выгрузка квартир позволяет синхронизироваться с CRM, что дает пользователям актуальную информацию по свободным квартирам. А сообщения из формы заявки на сайте могут сразу попадать в отдел продаж, что упрощает первую коммуникацию с потенциальными клиентами.Пользователю удобно связаться с компанией – есть возможность написать в WhatsApp, заказать обратный звонок или просто позвонить самому.Также появился удобный функционал «добавить в избранное». Подбирая квартиру, коммерческое помещение или машиноместо пользователь может выбрать несколько понравившихся вариантов и вернуться к их просмотру позже. Сайт полностью адаптивный и пользователи смогут работать с ним как с компьютеров, так и с планшетов и телефонов.",
-		"host": "schastye.ru",
-		"img": "",
-		"name": "сайт Счастье",
-		"nomin": 1,
-		"url": "http://schastye.ru/",
-		"prev_votes": 5,
-		"current_votes": 5,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586775671,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542608927608125696,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542608987627499108,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609236619637368,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609296640215085,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609356661993698,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609416688247485,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609476712268094,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609536734306341,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609596757067657,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609656780258672,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609716807164717,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609776837966314,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609836864353988,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609896888717424,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542609956915415223,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610016953221818,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610076980097396,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610137006533371,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610197038346110,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610257064319340,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610317097226456,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610377125317566,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610437157940764,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610497192962618,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610557237753579,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610617271709379,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610677305936153,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610737342399086,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610797375641334,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610857415570479,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610917451213673,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542610977485283284,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611037534033890,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611097572354019,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611157606256233,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 5
-			},
-			{
-				"timespamp": 1542611217648497861,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 5
-			}
-		]
-	},
-	{
 		"id": 580,
 		"description": "Народный справочник MCC кодов магазинов, а также справочник банковских карт с кэшбэком.",
 		"host": "mcc-codes.ru",
@@ -37641,6 +37477,205 @@
 			{
 				"timespamp": 1542619345786093655,
 				"timestamp_str": "2018-11-19 12:22:25",
+				"votes": 5
+			}
+		]
+	},
+	{
+		"id": 592,
+		"description": "Официальный сайт крупнейшего банка Республике Беларусь!",
+		"host": "belarusbank.by",
+		"img": "",
+		"name": "Официальный сайт Беларусбанка",
+		"nomin": 1,
+		"url": "https://belarusbank.by/",
+		"prev_votes": 5,
+		"current_votes": 5,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586900649,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542608927607890999,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542608987627393225,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609236619698894,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609296639934133,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609356662301799,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609416688548547,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609476712063608,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609536734417341,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609596756974000,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609656780481399,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609716807398223,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609776838037688,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609836864392093,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609896888903102,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542609956915424138,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610016953100504,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610076979882804,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610137005951685,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610197038441242,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610257064349924,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610317097364673,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610377125237691,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610437157501573,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610497193349664,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610557238183818,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610617271690202,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610677305799845,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610737342523113,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610797375575114,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610857415834557,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610917451059381,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542610977485271771,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611037534508863,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611097572475526,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611157606152929,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 5
+			},
+			{
+				"timespamp": 1542611217648547215,
+				"timestamp_str": "2018-11-19 10:06:57",
 				"votes": 5
 			}
 		]
@@ -37850,199 +37885,199 @@
 		]
 	},
 	{
-		"id": 592,
-		"description": "Официальный сайт крупнейшего банка Республике Беларусь!",
-		"host": "belarusbank.by",
+		"id": 587,
+		"description": "Новый сайт зонтичного бренда клубных домов «Счастье» объединяет 25 жилых проектов девелоперской компании «Лидер Инвест» на разной стации реализации. Современный дизайн разработан в стилистике обновленного брендбука. Новый сайт стал ярким и понятным, с «дружелюбным» интерфейсом. Продумана и расширена логика разделов. Отдельного внимания заслуживают разделы «Эмоции рядом с домом» и «Преимущества» внутри карточек проектов. Благодаря этим разделам клиент может ознакомиться не только с функциональными и качественными характеристиками проекта, но и понять и эмоционально почувствовать плюсы локации проекта. В разделе «Инфраструктура» размещены интерактивные карты с различными объектами: от детских садов и школ, до магазинов и парков. При создании сайта разработчики и команда заказчика тщательно подбирали каждую иллюстрацию, чтобы весь визуальный контент был выдержан в единой гармоничной стилистике. На сайте много визуального контента: в карточках проектов помимо фотоотчетов и онлайн-трансляций хода строительства размещены также галереи с изображениями фасадов и дизайном мест общего пользования. Чтобы сделать выбор квартиры удобным для большинства покупателей в новом сайте реализованы два варианта выбора: и визуальный, и параметрический. Удобные фильтры позволяют пользователю подобрать себе подходящий проект или квартиру, воспользовавшись фильтрами по району, стоимости, площади квартиры, сроку сдачи и другим параметрам. Автоматическая выгрузка квартир позволяет синхронизироваться с CRM, что дает пользователям актуальную информацию по свободным квартирам. А сообщения из формы заявки на сайте могут сразу попадать в отдел продаж, что упрощает первую коммуникацию с потенциальными клиентами.Пользователю удобно связаться с компанией – есть возможность написать в WhatsApp, заказать обратный звонок или просто позвонить самому.Также появился удобный функционал «добавить в избранное». Подбирая квартиру, коммерческое помещение или машиноместо пользователь может выбрать несколько понравившихся вариантов и вернуться к их просмотру позже. Сайт полностью адаптивный и пользователи смогут работать с ним как с компьютеров, так и с планшетов и телефонов.",
+		"host": "schastye.ru",
 		"img": "",
-		"name": "Официальный сайт Беларусбанка",
+		"name": "сайт Счастье",
 		"nomin": 1,
-		"url": "https://belarusbank.by/",
+		"url": "http://schastye.ru/",
 		"prev_votes": 5,
 		"current_votes": 5,
 		"votes_per_minute": 0,
 		"vote_history": [
 			{
-				"timespamp": 1542608867586900649,
+				"timespamp": 1542608867586775671,
 				"timestamp_str": "2018-11-19 09:27:47",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542608927607890999,
+				"timespamp": 1542608927608125696,
 				"timestamp_str": "2018-11-19 09:28:47",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542608987627393225,
+				"timespamp": 1542608987627499108,
 				"timestamp_str": "2018-11-19 09:29:47",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609236619698894,
+				"timespamp": 1542609236619637368,
 				"timestamp_str": "2018-11-19 09:33:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609296639934133,
+				"timespamp": 1542609296640215085,
 				"timestamp_str": "2018-11-19 09:34:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609356662301799,
+				"timespamp": 1542609356661993698,
 				"timestamp_str": "2018-11-19 09:35:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609416688548547,
+				"timespamp": 1542609416688247485,
 				"timestamp_str": "2018-11-19 09:36:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609476712063608,
+				"timespamp": 1542609476712268094,
 				"timestamp_str": "2018-11-19 09:37:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609536734417341,
+				"timespamp": 1542609536734306341,
 				"timestamp_str": "2018-11-19 09:38:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609596756974000,
+				"timespamp": 1542609596757067657,
 				"timestamp_str": "2018-11-19 09:39:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609656780481399,
+				"timespamp": 1542609656780258672,
 				"timestamp_str": "2018-11-19 09:40:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609716807398223,
+				"timespamp": 1542609716807164717,
 				"timestamp_str": "2018-11-19 09:41:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609776838037688,
+				"timespamp": 1542609776837966314,
 				"timestamp_str": "2018-11-19 09:42:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609836864392093,
+				"timespamp": 1542609836864353988,
 				"timestamp_str": "2018-11-19 09:43:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609896888903102,
+				"timespamp": 1542609896888717424,
 				"timestamp_str": "2018-11-19 09:44:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542609956915424138,
+				"timespamp": 1542609956915415223,
 				"timestamp_str": "2018-11-19 09:45:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610016953100504,
+				"timespamp": 1542610016953221818,
 				"timestamp_str": "2018-11-19 09:46:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610076979882804,
+				"timespamp": 1542610076980097396,
 				"timestamp_str": "2018-11-19 09:47:56",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610137005951685,
+				"timespamp": 1542610137006533371,
 				"timestamp_str": "2018-11-19 09:48:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610197038441242,
+				"timespamp": 1542610197038346110,
 				"timestamp_str": "2018-11-19 09:49:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610257064349924,
+				"timespamp": 1542610257064319340,
 				"timestamp_str": "2018-11-19 09:50:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610317097364673,
+				"timespamp": 1542610317097226456,
 				"timestamp_str": "2018-11-19 09:51:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610377125237691,
+				"timespamp": 1542610377125317566,
 				"timestamp_str": "2018-11-19 09:52:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610437157501573,
+				"timespamp": 1542610437157940764,
 				"timestamp_str": "2018-11-19 09:53:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610497193349664,
+				"timespamp": 1542610497192962618,
 				"timestamp_str": "2018-11-19 09:54:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610557238183818,
+				"timespamp": 1542610557237753579,
 				"timestamp_str": "2018-11-19 09:55:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610617271690202,
+				"timespamp": 1542610617271709379,
 				"timestamp_str": "2018-11-19 09:56:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610677305799845,
+				"timespamp": 1542610677305936153,
 				"timestamp_str": "2018-11-19 09:57:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610737342523113,
+				"timespamp": 1542610737342399086,
 				"timestamp_str": "2018-11-19 09:58:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610797375575114,
+				"timespamp": 1542610797375641334,
 				"timestamp_str": "2018-11-19 09:59:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610857415834557,
+				"timespamp": 1542610857415570479,
 				"timestamp_str": "2018-11-19 10:00:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610917451059381,
+				"timespamp": 1542610917451213673,
 				"timestamp_str": "2018-11-19 10:01:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542610977485271771,
+				"timespamp": 1542610977485283284,
 				"timestamp_str": "2018-11-19 10:02:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542611037534508863,
+				"timespamp": 1542611037534033890,
 				"timestamp_str": "2018-11-19 10:03:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542611097572475526,
+				"timespamp": 1542611097572354019,
 				"timestamp_str": "2018-11-19 10:04:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542611157606152929,
+				"timespamp": 1542611157606256233,
 				"timestamp_str": "2018-11-19 10:05:57",
 				"votes": 5
 			},
 			{
-				"timespamp": 1542611217648547215,
+				"timespamp": 1542611217648497861,
 				"timestamp_str": "2018-11-19 10:06:57",
 				"votes": 5
 			}
@@ -38253,205 +38288,6 @@
 		]
 	},
 	{
-		"id": 380,
-		"description": "Кастомизация образовательных траекторий государственных гражданских служащих по программе дополнительного профессионального образования «Антикоррупционное законодательство и политика» в электронной системе обучения брянского филиала РАНХиГС.",
-		"host": "see.rane-brf.ru",
-		"img": "",
-		"name": "Система электронного обучения Брянского филиала РАНХиГС",
-		"nomin": 2,
-		"url": "https://see.rane-brf.ru",
-		"prev_votes": 4,
-		"current_votes": 4,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586832836,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542608927608024755,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542608987627574966,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609236619654508,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609296640164161,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609356661877728,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609416688437958,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609476712061334,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609536734464549,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609596757088998,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609656780438119,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609716807419705,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609776837985326,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609836864331459,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609896888856949,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542609956915206412,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610016952937219,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610076980037925,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610137006165573,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610197038326418,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610257064315506,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610317097268514,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610377125199123,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610437157978467,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610497193215034,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610557237423902,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610617271617740,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610677306010726,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610737342635979,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610797375610040,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610857415839069,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610917451120473,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542610977484924189,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542611037535038266,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542611097572606582,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542611157606386793,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 4
-			},
-			{
-				"timespamp": 1542611217648460047,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 4
-			}
-		]
-	},
-	{
 		"id": 148,
 		"description": "Это Телеком-туса. Оба слова одинаково важны. Это место, где люди общаются на телеком-темы человеческим языком. Здесь можно обсудить с профессионалами отрасли и базовые станции, и колл-центры, и рекламу, и Роскомнадзор, да, в общем-то всё, что так или иначе относится к связи, Интернету и ИКТ-компаниям. И даже смельчаки, которые жалуются на качество связи, получают тут помощь и утешение из первых рук.",
 		"host": "facebook.com",
@@ -38651,6 +38487,205 @@
 			{
 				"timespamp": 1542633758093514097,
 				"timestamp_str": "2018-11-19 16:22:38",
+				"votes": 4
+			}
+		]
+	},
+	{
+		"id": 380,
+		"description": "Кастомизация образовательных траекторий государственных гражданских служащих по программе дополнительного профессионального образования «Антикоррупционное законодательство и политика» в электронной системе обучения брянского филиала РАНХиГС.",
+		"host": "see.rane-brf.ru",
+		"img": "",
+		"name": "Система электронного обучения Брянского филиала РАНХиГС",
+		"nomin": 2,
+		"url": "https://see.rane-brf.ru",
+		"prev_votes": 4,
+		"current_votes": 4,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586832836,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542608927608024755,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542608987627574966,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609236619654508,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609296640164161,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609356661877728,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609416688437958,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609476712061334,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609536734464549,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609596757088998,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609656780438119,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609716807419705,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609776837985326,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609836864331459,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609896888856949,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542609956915206412,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610016952937219,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610076980037925,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610137006165573,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610197038326418,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610257064315506,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610317097268514,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610377125199123,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610437157978467,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610497193215034,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610557237423902,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610617271617740,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610677306010726,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610737342635979,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610797375610040,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610857415839069,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610917451120473,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542610977484924189,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542611037535038266,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542611097572606582,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542611157606386793,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 4
+			},
+			{
+				"timespamp": 1542611217648460047,
+				"timestamp_str": "2018-11-19 10:06:57",
 				"votes": 4
 			}
 		]
@@ -39880,6 +39915,409 @@
 		]
 	},
 	{
+		"id": 306,
+		"description": "Facebook Challenge — практический курс вебинаров по рекламе в Facebook \u0026amp; Instagram.Всё началось с идеи сделать специализированный курс, который просто и понятно объяснит, как создавать рекламные кампании в Facebook и Instagram. И не только объяснит, но и закрепит навык на практических заданиях, под чутким вниманием опытных наставников :) Сейчас Facebook Challenge — это 10 экспертов-практиков (Аня Ветринская из Digital Мастерской, Никита Рвачев и Даша Владимирова из Aitarget, Вика Виноградова из Leadza и др.), более 40 часов лекций и самостоятельной отработки заданий, записанные скринкасты, чек-листы для проверок рекламных кампаний и бесплатные вебинары по обучению.Наша миссия — через обучение сделать рекламу более целевой, эстетичной и эффективной.",
+		"host": "f-challenge.ru",
+		"img": "",
+		"name": "Facebook Challenge",
+		"nomin": 1,
+		"url": "https://f-challenge.ru/",
+		"prev_votes": 3,
+		"current_votes": 3,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586815667,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542608927607870090,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542608987627470144,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609236619828584,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609296640173164,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609356661741722,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609416688411925,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609476712019802,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609536734614028,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609596757080188,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609656780044407,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609716807241802,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609776838170636,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609836864270361,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609896888728177,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609956915478561,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610016953212785,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610076979899306,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610137006119976,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610197038417766,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610257064370622,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610317097301987,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610377125026881,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610437157843851,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610497193049407,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610557238095548,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610617271767389,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610677305887607,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610737342364464,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610797375742337,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610857415686634,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610917450985260,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610977485037828,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611037534475567,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611097572538246,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611157606234656,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611217648385058,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542630154688506972,
+				"timestamp_str": "2018-11-19 15:22:34",
+				"votes": 3
+			}
+		]
+	},
+	{
+		"id": 106,
+		"description": "Uremont.com - агрегатор СТО, который объединил 14 000 автосервисов в России и СНГ. Портал Uremont.com позволяет выбрать лучший автосервис на ваших условиях. Сравнение предложений по ремонту авто от разных автосервисов в режиме онлайн. Здесь вы можете договориться с автосервисом о цене, скидках и получить самое выгодное предложение о ремонте.",
+		"host": "uremont.com",
+		"img": "",
+		"name": "UREMONT.COM",
+		"nomin": 1,
+		"url": "http://www.uremont.com",
+		"prev_votes": 3,
+		"current_votes": 3,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586734881,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542608927607819105,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542608987627385699,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609236619713420,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609296640202387,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609356662039390,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609416688336733,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609476712221776,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609536734525428,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609596757114043,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609656780028761,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609716807444083,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609776838176924,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609836864172637,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609896888782111,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542609956915512589,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610016953068895,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610076980112282,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610137006460275,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610197037615582,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610257064556779,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610317097297853,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610377125093105,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610437157920936,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610497193320707,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610557237772755,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610617271742743,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610677305750238,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610737342537199,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610797375603461,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610857415736829,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610917450923069,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542610977484929411,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542611037535005470,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542611097572638629,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542611157606244673,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 3
+			},
+			{
+				"timespamp": 1542611217648627945,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 3
+			}
+		]
+	},
+	{
 		"id": 238,
 		"description": "Единый информационный сайт Архангельской области. Ресурс охватывает 13 городов области объединяя их в единую информационную сеть.",
 		"host": "arhnet.info",
@@ -40283,812 +40721,6 @@
 		]
 	},
 	{
-		"id": 106,
-		"description": "Uremont.com - агрегатор СТО, который объединил 14 000 автосервисов в России и СНГ. Портал Uremont.com позволяет выбрать лучший автосервис на ваших условиях. Сравнение предложений по ремонту авто от разных автосервисов в режиме онлайн. Здесь вы можете договориться с автосервисом о цене, скидках и получить самое выгодное предложение о ремонте.",
-		"host": "uremont.com",
-		"img": "",
-		"name": "UREMONT.COM",
-		"nomin": 1,
-		"url": "http://www.uremont.com",
-		"prev_votes": 3,
-		"current_votes": 3,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586734881,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542608927607819105,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542608987627385699,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609236619713420,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609296640202387,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609356662039390,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609416688336733,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609476712221776,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609536734525428,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609596757114043,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609656780028761,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609716807444083,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609776838176924,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609836864172637,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609896888782111,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542609956915512589,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610016953068895,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610076980112282,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610137006460275,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610197037615582,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610257064556779,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610317097297853,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610377125093105,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610437157920936,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610497193320707,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610557237772755,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610617271742743,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610677305750238,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610737342537199,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610797375603461,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610857415736829,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610917450923069,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542610977484929411,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542611037535005470,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542611097572638629,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542611157606244673,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 3
-			},
-			{
-				"timespamp": 1542611217648627945,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 3
-			}
-		]
-	},
-	{
-		"id": 306,
-		"description": "Facebook Challenge — практический курс вебинаров по рекламе в Facebook \u0026amp; Instagram.Всё началось с идеи сделать специализированный курс, который просто и понятно объяснит, как создавать рекламные кампании в Facebook и Instagram. И не только объяснит, но и закрепит навык на практических заданиях, под чутким вниманием опытных наставников :) Сейчас Facebook Challenge — это 10 экспертов-практиков (Аня Ветринская из Digital Мастерской, Никита Рвачев и Даша Владимирова из Aitarget, Вика Виноградова из Leadza и др.), более 40 часов лекций и самостоятельной отработки заданий, записанные скринкасты, чек-листы для проверок рекламных кампаний и бесплатные вебинары по обучению.Наша миссия — через обучение сделать рекламу более целевой, эстетичной и эффективной.",
-		"host": "f-challenge.ru",
-		"img": "",
-		"name": "Facebook Challenge",
-		"nomin": 1,
-		"url": "https://f-challenge.ru/",
-		"prev_votes": 3,
-		"current_votes": 3,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586815667,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542608927607870090,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542608987627470144,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609236619828584,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609296640173164,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609356661741722,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609416688411925,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609476712019802,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609536734614028,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609596757080188,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609656780044407,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609716807241802,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609776838170636,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609836864270361,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609896888728177,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609956915478561,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610016953212785,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610076979899306,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610137006119976,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610197038417766,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610257064370622,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610317097301987,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610377125026881,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610437157843851,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610497193049407,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610557238095548,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610617271767389,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610677305887607,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610737342364464,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610797375742337,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610857415686634,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610917450985260,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610977485037828,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611037534475567,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611097572538246,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611157606234656,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611217648385058,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542630154688506972,
-				"timestamp_str": "2018-11-19 15:22:34",
-				"votes": 3
-			}
-		]
-	},
-	{
-		"id": 582,
-		"description": "Servermall - пионеры направления Refurbished-оборудования в России. Одни из первых начали продавать не б/у, а полностью восстановленное серверное оборудование.",
-		"host": "servermall.ru",
-		"img": "",
-		"name": "Servermall",
-		"nomin": 1,
-		"url": "https://servermall.ru/",
-		"prev_votes": 2,
-		"current_votes": 2,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586811092,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542608927608011335,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542608987627459092,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609236619748187,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609296640229614,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609356662077886,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609416688294158,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609476712109409,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609536734427295,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609596756947540,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609656780019195,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609716807411037,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609776837924850,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609836864229754,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609896888755871,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609956915251776,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610016953239894,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610076979991368,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610137005880654,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610197038302403,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610257064366866,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610317097176503,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610377125049261,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610437157868149,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610497193165627,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610557238704686,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610617271749421,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610677305826422,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610737342556369,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610797375455249,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610857415892195,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610917451155186,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610977484986344,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611037534739371,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611097572572167,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611157606141972,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611217648505504,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542630034596340909,
-				"timestamp_str": "2018-11-19 15:20:34",
-				"votes": 2
-			}
-		]
-	},
-	{
-		"id": 210,
-		"description": "Проект создан группой IT-юристов и криптоэнтузиастов с целью информирования о развитии действующего законодательства в сфере цифровой экономики.",
-		"host": "cryptolaw.tk",
-		"img": "",
-		"name": "IT-lawyers",
-		"nomin": 1,
-		"url": "http://cryptolaw.tk/",
-		"prev_votes": 2,
-		"current_votes": 2,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586675230,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542608927607936007,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542608987627780702,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609236619760688,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609296639957236,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609356661793595,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609416688321227,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609476712272214,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609536734296026,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609596757101592,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609656779943296,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609716807448325,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609776838026539,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609836864465395,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609896888852796,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542609956915482356,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610016953122614,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610076980018432,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610137005868560,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610197038357669,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610257064169656,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610317098115695,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610377125308788,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610437157953958,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610497193157052,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610557237566065,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610617271513501,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610677305965699,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610737342633794,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610797375437284,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610857415596243,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610917451091146,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542610977485145875,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611037534772765,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611097572387141,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611157606291302,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 2
-			},
-			{
-				"timespamp": 1542611217648598014,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 2
-			}
-		]
-	},
-	{
 		"id": 581,
 		"description": "Prosto.aero – поиск билетов на самолет и сравнение цен. Мы не являемся турагентством, не авиакомпанией, не агентством онлайн бронирования. Мы не продаем авиабилеты. Мы этого совсем не делаем. Мы просто ищем для Вас самые низкие цены на авиабилеты по всему интернету по более 700 авиакомпаниям, абсолютно также, как если б Вы искали их сами. Среднее время поиска билетов на самолет занимает 45 секунд. Мы не берем комиссий и не делаем наценок. Наш сервис полностью бесплатный.",
 		"host": "prosto.aero",
@@ -41293,6 +40925,205 @@
 		]
 	},
 	{
+		"id": 210,
+		"description": "Проект создан группой IT-юристов и криптоэнтузиастов с целью информирования о развитии действующего законодательства в сфере цифровой экономики.",
+		"host": "cryptolaw.tk",
+		"img": "",
+		"name": "IT-lawyers",
+		"nomin": 1,
+		"url": "http://cryptolaw.tk/",
+		"prev_votes": 2,
+		"current_votes": 2,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586675230,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542608927607936007,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542608987627780702,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609236619760688,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609296639957236,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609356661793595,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609416688321227,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609476712272214,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609536734296026,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609596757101592,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609656779943296,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609716807448325,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609776838026539,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609836864465395,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609896888852796,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542609956915482356,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610016953122614,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610076980018432,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610137005868560,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610197038357669,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610257064169656,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610317098115695,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610377125308788,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610437157953958,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610497193157052,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610557237566065,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610617271513501,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610677305965699,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610737342633794,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610797375437284,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610857415596243,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610917451091146,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542610977485145875,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611037534772765,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611097572387141,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611157606291302,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 2
+			},
+			{
+				"timespamp": 1542611217648598014,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 2
+			}
+		]
+	},
+	{
 		"id": 456,
 		"description": "Развлекательный сайт uCrazy.ru существует с осени 2005 года и является первым развлекательным порталом в г. Томске и Томской области. Сайт представляет собой развлекательный коллективный блог. Основная тематика сайта - интересные события, видео, юмор, развлечения, коллективное творчество.Наше главное отличие от других блогов – пользователи, которые сами участвуют в жизни и развитии сайта.",
 		"host": "ucrazy.ru",
@@ -41492,400 +41323,206 @@
 		]
 	},
 	{
-		"id": 590,
-		"description": "Имажинария - ролевая социальная сеть, созданная ролевиками для ролевиков. Здесь обсуждаются настольные ролевые игры. Здесь ответят на ваш вопрос, подскажут во что поиграть и расскажут, как играть правильно. Правильно - это так, чтобы всем было весело.",
-		"host": "imaginaria.ru",
+		"id": 582,
+		"description": "Servermall - пионеры направления Refurbished-оборудования в России. Одни из первых начали продавать не б/у, а полностью восстановленное серверное оборудование.",
+		"host": "servermall.ru",
 		"img": "",
-		"name": "Имажинария, ролевая социальная сеть",
+		"name": "Servermall",
 		"nomin": 1,
-		"url": "https://imaginaria.ru",
-		"prev_votes": 1,
-		"current_votes": 1,
+		"url": "https://servermall.ru/",
+		"prev_votes": 2,
+		"current_votes": 2,
 		"votes_per_minute": 0,
 		"vote_history": [
 			{
-				"timespamp": 1542608867586694953,
+				"timespamp": 1542608867586811092,
 				"timestamp_str": "2018-11-19 09:27:47",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542608927607950517,
+				"timespamp": 1542608927608011335,
 				"timestamp_str": "2018-11-19 09:28:47",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542608987627836959,
+				"timespamp": 1542608987627459092,
 				"timestamp_str": "2018-11-19 09:29:47",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609236619669734,
+				"timespamp": 1542609236619748187,
 				"timestamp_str": "2018-11-19 09:33:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609296640152972,
+				"timespamp": 1542609296640229614,
 				"timestamp_str": "2018-11-19 09:34:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609356662208538,
+				"timespamp": 1542609356662077886,
 				"timestamp_str": "2018-11-19 09:35:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609416688386661,
+				"timespamp": 1542609416688294158,
 				"timestamp_str": "2018-11-19 09:36:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609476712072785,
+				"timespamp": 1542609476712109409,
 				"timestamp_str": "2018-11-19 09:37:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609536734562974,
+				"timespamp": 1542609536734427295,
 				"timestamp_str": "2018-11-19 09:38:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609596757069915,
+				"timespamp": 1542609596756947540,
 				"timestamp_str": "2018-11-19 09:39:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609656780171465,
+				"timespamp": 1542609656780019195,
 				"timestamp_str": "2018-11-19 09:40:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609716807332763,
+				"timespamp": 1542609716807411037,
 				"timestamp_str": "2018-11-19 09:41:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609776837937924,
+				"timespamp": 1542609776837924850,
 				"timestamp_str": "2018-11-19 09:42:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609836864407722,
+				"timespamp": 1542609836864229754,
 				"timestamp_str": "2018-11-19 09:43:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609896888907279,
+				"timespamp": 1542609896888755871,
 				"timestamp_str": "2018-11-19 09:44:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542609956915565839,
+				"timespamp": 1542609956915251776,
 				"timestamp_str": "2018-11-19 09:45:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610016952970402,
+				"timespamp": 1542610016953239894,
 				"timestamp_str": "2018-11-19 09:46:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610076979976038,
+				"timespamp": 1542610076979991368,
 				"timestamp_str": "2018-11-19 09:47:56",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610137005979844,
+				"timespamp": 1542610137005880654,
 				"timestamp_str": "2018-11-19 09:48:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610197038281009,
+				"timespamp": 1542610197038302403,
 				"timestamp_str": "2018-11-19 09:49:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610257064406539,
+				"timespamp": 1542610257064366866,
 				"timestamp_str": "2018-11-19 09:50:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610317097652917,
+				"timespamp": 1542610317097176503,
 				"timestamp_str": "2018-11-19 09:51:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610377125016274,
+				"timespamp": 1542610377125049261,
 				"timestamp_str": "2018-11-19 09:52:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610437157279327,
+				"timespamp": 1542610437157868149,
 				"timestamp_str": "2018-11-19 09:53:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610497192926116,
+				"timespamp": 1542610497193165627,
 				"timestamp_str": "2018-11-19 09:54:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610557238490258,
+				"timespamp": 1542610557238704686,
 				"timestamp_str": "2018-11-19 09:55:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610617271478587,
+				"timespamp": 1542610617271749421,
 				"timestamp_str": "2018-11-19 09:56:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610677306021344,
+				"timespamp": 1542610677305826422,
 				"timestamp_str": "2018-11-19 09:57:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610737342426836,
+				"timespamp": 1542610737342556369,
 				"timestamp_str": "2018-11-19 09:58:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610797375443827,
+				"timespamp": 1542610797375455249,
 				"timestamp_str": "2018-11-19 09:59:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610857415786334,
+				"timespamp": 1542610857415892195,
 				"timestamp_str": "2018-11-19 10:00:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610917451165831,
+				"timespamp": 1542610917451155186,
 				"timestamp_str": "2018-11-19 10:01:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542610977485092717,
+				"timespamp": 1542610977484986344,
 				"timestamp_str": "2018-11-19 10:02:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542611037534142823,
+				"timespamp": 1542611037534739371,
 				"timestamp_str": "2018-11-19 10:03:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542611097572358787,
+				"timespamp": 1542611097572572167,
 				"timestamp_str": "2018-11-19 10:04:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542611157606280383,
+				"timespamp": 1542611157606141972,
 				"timestamp_str": "2018-11-19 10:05:57",
 				"votes": 1
 			},
 			{
-				"timespamp": 1542611217648763335,
+				"timespamp": 1542611217648505504,
 				"timestamp_str": "2018-11-19 10:06:57",
 				"votes": 1
-			}
-		]
-	},
-	{
-		"id": 520,
-		"description": "Новакид это онлайн-школа английского языка, дающая возможность детям изучать английский на качественно новом уровне с англоязычными преподавателями или с носителями языка. Платформа Новакид включает в себя все обучающие материалы и удобную панель для родителей. Тысячи детей из 36 стран мира уже учатся в Новакид разговорным навыкам и готовятся быть успешными гражданами мира в 21 веке, веке глобализации.",
-		"host": "novakid.ru",
-		"img": "",
-		"name": "НоваКид",
-		"nomin": 1,
-		"url": "http://www.novakid.ru",
-		"prev_votes": 1,
-		"current_votes": 1,
-		"votes_per_minute": 0,
-		"vote_history": [
-			{
-				"timespamp": 1542608867586614413,
-				"timestamp_str": "2018-11-19 09:27:47",
-				"votes": 1
 			},
 			{
-				"timespamp": 1542608927608035187,
-				"timestamp_str": "2018-11-19 09:28:47",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542608987627411686,
-				"timestamp_str": "2018-11-19 09:29:47",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609236619777301,
-				"timestamp_str": "2018-11-19 09:33:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609296640130847,
-				"timestamp_str": "2018-11-19 09:34:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609356662130616,
-				"timestamp_str": "2018-11-19 09:35:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609416688482250,
-				"timestamp_str": "2018-11-19 09:36:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609476712209195,
-				"timestamp_str": "2018-11-19 09:37:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609536734312840,
-				"timestamp_str": "2018-11-19 09:38:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609596757003619,
-				"timestamp_str": "2018-11-19 09:39:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609656780163053,
-				"timestamp_str": "2018-11-19 09:40:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609716807191054,
-				"timestamp_str": "2018-11-19 09:41:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609776838164325,
-				"timestamp_str": "2018-11-19 09:42:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609836864350126,
-				"timestamp_str": "2018-11-19 09:43:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609896888850792,
-				"timestamp_str": "2018-11-19 09:44:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542609956915270445,
-				"timestamp_str": "2018-11-19 09:45:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610016952894558,
-				"timestamp_str": "2018-11-19 09:46:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610076979874941,
-				"timestamp_str": "2018-11-19 09:47:56",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610137006091048,
-				"timestamp_str": "2018-11-19 09:48:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610197038405232,
-				"timestamp_str": "2018-11-19 09:49:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610257064174420,
-				"timestamp_str": "2018-11-19 09:50:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610317097834878,
-				"timestamp_str": "2018-11-19 09:51:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610377125086470,
-				"timestamp_str": "2018-11-19 09:52:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610437158019120,
-				"timestamp_str": "2018-11-19 09:53:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610497193062694,
-				"timestamp_str": "2018-11-19 09:54:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610557238037678,
-				"timestamp_str": "2018-11-19 09:55:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610617271760113,
-				"timestamp_str": "2018-11-19 09:56:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610677305980107,
-				"timestamp_str": "2018-11-19 09:57:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610737342550038,
-				"timestamp_str": "2018-11-19 09:58:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610797375696170,
-				"timestamp_str": "2018-11-19 09:59:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610857415856799,
-				"timestamp_str": "2018-11-19 10:00:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610917450969167,
-				"timestamp_str": "2018-11-19 10:01:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542610977485023665,
-				"timestamp_str": "2018-11-19 10:02:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611037534088298,
-				"timestamp_str": "2018-11-19 10:03:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611097572590814,
-				"timestamp_str": "2018-11-19 10:04:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611157606418877,
-				"timestamp_str": "2018-11-19 10:05:57",
-				"votes": 1
-			},
-			{
-				"timespamp": 1542611217648513165,
-				"timestamp_str": "2018-11-19 10:06:57",
-				"votes": 1
+				"timespamp": 1542630034596340909,
+				"timestamp_str": "2018-11-19 15:20:34",
+				"votes": 2
 			}
 		]
 	},
@@ -42282,6 +41919,404 @@
 			},
 			{
 				"timespamp": 1542611217648650723,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 1
+			}
+		]
+	},
+	{
+		"id": 520,
+		"description": "Новакид это онлайн-школа английского языка, дающая возможность детям изучать английский на качественно новом уровне с англоязычными преподавателями или с носителями языка. Платформа Новакид включает в себя все обучающие материалы и удобную панель для родителей. Тысячи детей из 36 стран мира уже учатся в Новакид разговорным навыкам и готовятся быть успешными гражданами мира в 21 веке, веке глобализации.",
+		"host": "novakid.ru",
+		"img": "",
+		"name": "НоваКид",
+		"nomin": 1,
+		"url": "http://www.novakid.ru",
+		"prev_votes": 1,
+		"current_votes": 1,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586614413,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542608927608035187,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542608987627411686,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609236619777301,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609296640130847,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609356662130616,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609416688482250,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609476712209195,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609536734312840,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609596757003619,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609656780163053,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609716807191054,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609776838164325,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609836864350126,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609896888850792,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609956915270445,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610016952894558,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610076979874941,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610137006091048,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610197038405232,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610257064174420,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610317097834878,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610377125086470,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610437158019120,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610497193062694,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610557238037678,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610617271760113,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610677305980107,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610737342550038,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610797375696170,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610857415856799,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610917450969167,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610977485023665,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611037534088298,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611097572590814,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611157606418877,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611217648513165,
+				"timestamp_str": "2018-11-19 10:06:57",
+				"votes": 1
+			}
+		]
+	},
+	{
+		"id": 590,
+		"description": "Имажинария - ролевая социальная сеть, созданная ролевиками для ролевиков. Здесь обсуждаются настольные ролевые игры. Здесь ответят на ваш вопрос, подскажут во что поиграть и расскажут, как играть правильно. Правильно - это так, чтобы всем было весело.",
+		"host": "imaginaria.ru",
+		"img": "",
+		"name": "Имажинария, ролевая социальная сеть",
+		"nomin": 1,
+		"url": "https://imaginaria.ru",
+		"prev_votes": 1,
+		"current_votes": 1,
+		"votes_per_minute": 0,
+		"vote_history": [
+			{
+				"timespamp": 1542608867586694953,
+				"timestamp_str": "2018-11-19 09:27:47",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542608927607950517,
+				"timestamp_str": "2018-11-19 09:28:47",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542608987627836959,
+				"timestamp_str": "2018-11-19 09:29:47",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609236619669734,
+				"timestamp_str": "2018-11-19 09:33:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609296640152972,
+				"timestamp_str": "2018-11-19 09:34:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609356662208538,
+				"timestamp_str": "2018-11-19 09:35:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609416688386661,
+				"timestamp_str": "2018-11-19 09:36:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609476712072785,
+				"timestamp_str": "2018-11-19 09:37:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609536734562974,
+				"timestamp_str": "2018-11-19 09:38:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609596757069915,
+				"timestamp_str": "2018-11-19 09:39:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609656780171465,
+				"timestamp_str": "2018-11-19 09:40:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609716807332763,
+				"timestamp_str": "2018-11-19 09:41:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609776837937924,
+				"timestamp_str": "2018-11-19 09:42:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609836864407722,
+				"timestamp_str": "2018-11-19 09:43:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609896888907279,
+				"timestamp_str": "2018-11-19 09:44:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542609956915565839,
+				"timestamp_str": "2018-11-19 09:45:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610016952970402,
+				"timestamp_str": "2018-11-19 09:46:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610076979976038,
+				"timestamp_str": "2018-11-19 09:47:56",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610137005979844,
+				"timestamp_str": "2018-11-19 09:48:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610197038281009,
+				"timestamp_str": "2018-11-19 09:49:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610257064406539,
+				"timestamp_str": "2018-11-19 09:50:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610317097652917,
+				"timestamp_str": "2018-11-19 09:51:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610377125016274,
+				"timestamp_str": "2018-11-19 09:52:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610437157279327,
+				"timestamp_str": "2018-11-19 09:53:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610497192926116,
+				"timestamp_str": "2018-11-19 09:54:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610557238490258,
+				"timestamp_str": "2018-11-19 09:55:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610617271478587,
+				"timestamp_str": "2018-11-19 09:56:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610677306021344,
+				"timestamp_str": "2018-11-19 09:57:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610737342426836,
+				"timestamp_str": "2018-11-19 09:58:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610797375443827,
+				"timestamp_str": "2018-11-19 09:59:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610857415786334,
+				"timestamp_str": "2018-11-19 10:00:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610917451165831,
+				"timestamp_str": "2018-11-19 10:01:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542610977485092717,
+				"timestamp_str": "2018-11-19 10:02:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611037534142823,
+				"timestamp_str": "2018-11-19 10:03:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611097572358787,
+				"timestamp_str": "2018-11-19 10:04:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611157606280383,
+				"timestamp_str": "2018-11-19 10:05:57",
+				"votes": 1
+			},
+			{
+				"timespamp": 1542611217648763335,
 				"timestamp_str": "2018-11-19 10:06:57",
 				"votes": 1
 			}
